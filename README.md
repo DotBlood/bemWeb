@@ -14,7 +14,8 @@ header.header>.header__container>nav.header__nav>ul.header__links>li.header__lin
 
 
 ### cards
-``` section.card>.card__wrapper>h2.card__title>span.card__suptitle^.card__informations>ul.card__tblocks>li.card__tblock*4>p.card__text^^.card__photos>ul.card__pblocks>li.card__pblock*4>img.card__exemple
+``` 
+ section.card>.card__wrapper>h2.card__title>span.card__suptitle^.card__informations>ul.card__tblocks>li.card__tblock*4>p.card__text^^.card__photos>ul.card__pblocks>li.card__pblock*4>img.card__exemple
 ```
 
 ### other (search)
